@@ -110,4 +110,18 @@
             android:layout_marginTop="485dp"
             android:layout_marginLeft="160dp"
             android:onClick="onClick"/>
+
+    <VideoView
+            android:id="@+id/videoView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+    />
+
+    <Button
+            android:id="@+id/button1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_centerHorizontal="true"
+            android:background="@android:color/transparent" />
 </RelativeLayout>

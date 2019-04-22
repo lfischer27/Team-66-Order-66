@@ -45,8 +45,8 @@
                                   <option name="values">
                                     <map>
                                       <entry key="assetType" value="IMAGE" />
-                                      <entry key="imageAsset" value="$USER_HOME$/Desktop/Screen Shot 2019-03-24 at 2.51.22 PM.png" />
-                                      <entry key="outputName" value="planet_img" />
+                                      <entry key="imageAsset" value="C:\Users\laure\CS 2340\ship.gif" />
+                                      <entry key="outputName" value="Space Ship" />
                                       <entry key="theme" value="HOLO_DARK" />
                                       <entry key="themeColor" value="ffffff" />
                                     </map>
